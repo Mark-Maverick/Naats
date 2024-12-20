@@ -2,7 +2,9 @@
 
 ## Description
 This project is a web-based Naat player that allows users to listen to various naats by different artists and albums.
-
+##Live Link
+ You can see the live demo by [clicking here](https://naats.freewebhostmost.com/)
+ - If any artist isn't working try refreshing the page. The reason is free hosting 😁.
 ## Features
 - Browse artists and albums.
 - Play naats with controls for play, pause, next, and previous.
